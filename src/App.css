@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+body{
+  width: 100%;
+padding: 5px;
 }
 
 .App-logo {
